@@ -1,0 +1,2 @@
+the quick brown fox
+hello world from awk
