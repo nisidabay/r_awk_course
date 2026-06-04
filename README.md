@@ -42,6 +42,13 @@ Then: `02_fields_delimiters` → `03_patterns` → `04_control_flow` →
 `05_strings` → `06_arrays` → `07_variables` → `08_multifile` →
 `09_functions` → `10_real_world`.
 
+## Projects
+
+`projects/` contains 10 standalone CLI tools built with pure AWK — system
+monitors, file finders, log analyzers, and report generators. Everything
+here was built to solve an actual problem on an Arch Linux machine.
+See `projects/README.md` for a guided tour.
+
 ## Why AWK?
 
 | Tool | Sweet spot |
