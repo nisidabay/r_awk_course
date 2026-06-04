@@ -1,0 +1,5 @@
+carlos.nisidabay@gmail.com
+elena.rodriguez@hotmail.com
+miguel@outlook.com
+invalid-email
+test@example.org
